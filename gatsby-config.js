@@ -19,7 +19,7 @@ module.exports = {
     description: `A Community of developers, designers, innovators, and just about everything cool under the sun. Come join our team!`,
     author: `MakerDAO Commuminty Development Team`,
     copyright: '',
-    siteUrl: 'https://community-development.makerdao.com/',
+    siteUrl: 'https://content-production.github.io/community/',
   },
   plugins: [
     'gatsby-plugin-theme-ui',
@@ -274,7 +274,7 @@ module.exports = {
         // Any additional optional fields
         // sampleRate: 5,
         // siteSpeedSampleRate: 10,
-        // cookieDomain: "makerdao.com",
+        // cookieDomain: "https://content-production.github.io/community/",
       },
     },
     'gatsby-plugin-preload-link-crossorigin',
